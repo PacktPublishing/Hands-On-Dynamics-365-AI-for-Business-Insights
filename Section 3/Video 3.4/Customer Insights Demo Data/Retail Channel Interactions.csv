@@ -1,0 +1,501 @@
+ID,channel,interaction,visit_date,end_date,customer,description,name
+1,Service Centre,Product Return,27/10/2018 15:12,27/10/2018 15:33,CONT00066,Service Centre - Product Return,Channel Interaction
+2,Service Centre,Product Return,28/11/2018 22:52,28/11/2018 23:29,CONT00067,Service Centre - Product Return,Channel Interaction
+3,Contact Centre,Warranty Claim,17/01/2019 16:33,17/01/2019 17:05,CONT00030,Contact Centre - Warranty Claim,Channel Interaction
+4,Web,Product Disclosure Download,12/04/2019 20:09,12/04/2019 21:04,CONT00082,Web - Product Disclosure Download,Channel Interaction
+5,Portal,Create Account,3/03/2019 10:29,3/03/2019 10:35,CONT00085,Portal - Create Account,Channel Interaction
+6,Store,Warranty,8/01/2019 11:17,8/01/2019 11:41,CONT0006,Store - Warranty,Channel Interaction
+7,Web,Product Disclosure Download,28/11/2018 0:39,28/11/2018 0:46,CONT00094,Web - Product Disclosure Download,Channel Interaction
+8,Store,Return,8/04/2019 10:31,8/04/2019 11:14,CONT00060,Store - Return,Channel Interaction
+9,Service Centre,Product Return,16/07/2019 10:03,16/07/2019 10:37,CONT00057,Service Centre - Product Return,Channel Interaction
+10,Portal,Create Account,30/01/2019 9:36,30/01/2019 10:19,CONT00052,Portal - Create Account,Channel Interaction
+11,Service Centre,Maintenance Call out,16/11/2018 9:02,16/11/2018 9:29,CONT00024,Service Centre - Maintenance Call out,Channel Interaction
+12,Contact Centre,Warranty Claim,22/10/2018 6:35,22/10/2018 7:11,CONT000100,Contact Centre - Warranty Claim,Channel Interaction
+13,Web,Product Disclosure Download,4/11/2018 19:55,4/11/2018 20:39,CONT0003,Web - Product Disclosure Download,Channel Interaction
+14,Store,Return,24/03/2019 14:19,24/03/2019 15:01,CONT00016,Store - Return,Channel Interaction
+15,Portal,Create Account,16/01/2019 6:44,16/01/2019 7:35,CONT00099,Portal - Create Account,Channel Interaction
+16,Store,Warranty,18/09/2018 2:47,18/09/2018 3:21,CONT00092,Store - Warranty,Channel Interaction
+17,Contact Centre,Warranty Claim,7/11/2018 11:42,7/11/2018 12:23,CONT00074,Contact Centre - Warranty Claim,Channel Interaction
+18,Portal,Create Account,4/05/2019 17:52,4/05/2019 17:59,CONT00099,Portal - Create Account,Channel Interaction
+19,Web,Product Disclosure Download,22/08/2018 13:31,22/08/2018 14:14,CONT00062,Web - Product Disclosure Download,Channel Interaction
+20,Web,Product Enquiry,18/12/2018 18:27,18/12/2018 19:16,CONT00086,Web - Product Enquiry,Channel Interaction
+21,Store,Warranty,1/08/2018 20:40,1/08/2018 21:40,CONT00084,Store - Warranty,Channel Interaction
+22,Web,Product Disclosure Download,26/01/2019 8:37,26/01/2019 8:43,CONT00027,Web - Product Disclosure Download,Channel Interaction
+23,Service Centre,Maintenance Call out,15/07/2019 8:31,15/07/2019 9:09,CONT00097,Service Centre - Maintenance Call out,Channel Interaction
+24,Service Centre,Product Return,22/05/2019 10:17,22/05/2019 10:26,CONT00094,Service Centre - Product Return,Channel Interaction
+25,Web,Update Details,3/02/2019 4:10,3/02/2019 5:03,CONT00061,Web - Update Details,Channel Interaction
+26,Portal,Create Account,19/12/2018 0:34,19/12/2018 1:32,CONT00069,Portal - Create Account,Channel Interaction
+27,Store,Warranty,23/09/2018 6:04,23/09/2018 6:38,CONT00039,Store - Warranty,Channel Interaction
+28,Service Centre,Product Return,28/06/2019 3:43,28/06/2019 4:22,CONT00042,Service Centre - Product Return,Channel Interaction
+29,Portal,Update Details,17/12/2018 9:29,17/12/2018 10:20,CONT00072,Portal - Update Details,Channel Interaction
+30,Portal,Create Account,16/02/2019 14:35,16/02/2019 15:21,CONT00018,Portal - Create Account,Channel Interaction
+31,Portal,Product Enquiry,7/01/2019 9:27,7/01/2019 9:38,CONT0002,Portal - Product Enquiry,Channel Interaction
+32,Web,Product Disclosure Download,16/04/2019 23:09,16/04/2019 23:59,CONT00023,Web - Product Disclosure Download,Channel Interaction
+33,Web,Product Disclosure Download,23/10/2018 6:29,23/10/2018 6:37,CONT00010,Web - Product Disclosure Download,Channel Interaction
+34,Store,Return,25/03/2019 1:52,25/03/2019 2:50,CONT00048,Store - Return,Channel Interaction
+35,Store,Purchase,1/05/2019 0:56,1/05/2019 1:17,CONT00040,Store - Purchase,Channel Interaction
+36,Contact Centre,Warranty Claim,23/05/2019 16:23,23/05/2019 17:08,CONT00091,Contact Centre - Warranty Claim,Channel Interaction
+37,Portal,Update Details,5/04/2019 3:16,5/04/2019 3:26,CONT00086,Portal - Update Details,Channel Interaction
+38,Store,Warranty,11/01/2019 23:02,11/01/2019 23:46,CONT00085,Store - Warranty,Channel Interaction
+39,Portal,Create Account,2/09/2018 20:38,2/09/2018 20:53,CONT00063,Portal - Create Account,Channel Interaction
+40,Web,Update Details,3/10/2018 9:15,3/10/2018 10:01,CONT00074,Web - Update Details,Channel Interaction
+41,Store,Purchase,14/03/2019 11:14,14/03/2019 11:22,CONT00030,Store - Purchase,Channel Interaction
+42,Portal,Create Account,28/07/2019 7:42,28/07/2019 8:36,CONT0004,Portal - Create Account,Channel Interaction
+43,Service Centre,Product Return,18/12/2018 22:07,18/12/2018 22:58,CONT0005,Service Centre - Product Return,Channel Interaction
+44,Portal,Product Enquiry,21/02/2019 1:30,21/02/2019 1:37,CONT00066,Portal - Product Enquiry,Channel Interaction
+45,Store,Return,12/12/2018 20:50,12/12/2018 20:58,CONT00058,Store - Return,Channel Interaction
+46,Web,Product Enquiry,6/03/2019 10:49,6/03/2019 11:02,CONT00037,Web - Product Enquiry,Channel Interaction
+47,Service Centre,Product Repair,17/09/2018 19:13,17/09/2018 20:12,CONT00062,Service Centre - Product Repair,Channel Interaction
+48,Service Centre,Product Return,11/04/2019 15:33,11/04/2019 15:49,CONT0005,Service Centre - Product Return,Channel Interaction
+49,Service Centre,Maintenance Call out,23/06/2019 1:23,23/06/2019 2:13,CONT00027,Service Centre - Maintenance Call out,Channel Interaction
+50,Store,Purchase,5/09/2018 17:49,5/09/2018 18:23,CONT00025,Store - Purchase,Channel Interaction
+51,Portal,Update Details,18/08/2018 6:09,18/08/2018 6:52,CONT00096,Portal - Update Details,Channel Interaction
+52,Store,Purchase,28/11/2018 15:25,28/11/2018 16:10,CONT0006,Store - Purchase,Channel Interaction
+53,Service Centre,Product Return,3/05/2019 9:36,3/05/2019 9:45,CONT00076,Service Centre - Product Return,Channel Interaction
+54,Contact Centre,Product Assistance,26/10/2018 8:20,26/10/2018 9:18,CONT00090,Contact Centre - Product Assistance,Channel Interaction
+55,Contact Centre,Product Assistance,19/06/2019 19:22,19/06/2019 19:30,CONT00087,Contact Centre - Product Assistance,Channel Interaction
+56,Service Centre,Product Repair,23/04/2019 3:18,23/04/2019 4:06,CONT00030,Service Centre - Product Repair,Channel Interaction
+57,Service Centre,Product Repair,30/06/2019 22:48,30/06/2019 23:09,CONT00047,Service Centre - Product Repair,Channel Interaction
+58,Store,Return,25/07/2019 17:01,25/07/2019 17:57,CONT00029,Store - Return,Channel Interaction
+59,Contact Centre,Warranty Claim,17/01/2019 18:14,17/01/2019 19:12,CONT00039,Contact Centre - Warranty Claim,Channel Interaction
+60,Portal,Update Details,18/09/2018 7:00,18/09/2018 7:12,CONT00077,Portal - Update Details,Channel Interaction
+61,Contact Centre,Product Assistance,21/05/2019 9:40,21/05/2019 10:27,CONT00081,Contact Centre - Product Assistance,Channel Interaction
+62,Store,Warranty,8/01/2019 13:25,8/01/2019 13:59,CONT0007,Store - Warranty,Channel Interaction
+63,Service Centre,Product Repair,1/08/2018 16:05,1/08/2018 16:08,CONT00020,Service Centre - Product Repair,Channel Interaction
+64,Web,Update Details,19/04/2019 12:48,19/04/2019 12:49,CONT00022,Web - Update Details,Channel Interaction
+65,Web,Product Disclosure Download,24/04/2019 17:04,24/04/2019 17:39,CONT00024,Web - Product Disclosure Download,Channel Interaction
+66,Store,Purchase,19/09/2018 4:14,19/09/2018 4:21,CONT00038,Store - Purchase,Channel Interaction
+67,Contact Centre,Warranty Claim,15/10/2018 11:54,15/10/2018 12:21,CONT00017,Contact Centre - Warranty Claim,Channel Interaction
+68,Service Centre,Maintenance Call out,28/12/2018 6:41,28/12/2018 6:59,CONT0003,Service Centre - Maintenance Call out,Channel Interaction
+69,Contact Centre,Warranty Claim,7/09/2018 9:14,7/09/2018 9:32,CONT00069,Contact Centre - Warranty Claim,Channel Interaction
+70,Store,Purchase,26/10/2018 15:08,26/10/2018 16:06,CONT0006,Store - Purchase,Channel Interaction
+71,Store,Warranty,21/10/2018 8:18,21/10/2018 8:48,CONT0003,Store - Warranty,Channel Interaction
+72,Store,Return,4/07/2019 5:17,4/07/2019 5:23,CONT00095,Store - Return,Channel Interaction
+73,Web,Product Disclosure Download,10/10/2018 1:45,10/10/2018 2:31,CONT00093,Web - Product Disclosure Download,Channel Interaction
+74,Portal,Product Enquiry,30/01/2019 8:33,30/01/2019 9:01,CONT00090,Portal - Product Enquiry,Channel Interaction
+75,Service Centre,Product Return,11/11/2018 3:09,11/11/2018 3:14,CONT00099,Service Centre - Product Return,Channel Interaction
+76,Store,Warranty,27/07/2019 19:16,27/07/2019 19:33,CONT0009,Store - Warranty,Channel Interaction
+77,Contact Centre,Warranty Claim,22/09/2018 9:30,22/09/2018 9:31,CONT00019,Contact Centre - Warranty Claim,Channel Interaction
+78,Store,Warranty,15/06/2019 10:46,15/06/2019 11:01,CONT00092,Store - Warranty,Channel Interaction
+79,Portal,Create Account,14/02/2019 10:08,14/02/2019 10:25,CONT00073,Portal - Create Account,Channel Interaction
+80,Service Centre,Product Return,20/09/2018 2:57,20/09/2018 3:53,CONT00062,Service Centre - Product Return,Channel Interaction
+81,Store,Purchase,10/05/2019 8:17,10/05/2019 8:28,CONT00099,Store - Purchase,Channel Interaction
+82,Service Centre,Product Return,3/11/2018 16:08,3/11/2018 16:10,CONT00073,Service Centre - Product Return,Channel Interaction
+83,Web,Product Disclosure Download,2/08/2018 7:53,2/08/2018 8:00,CONT00057,Web - Product Disclosure Download,Channel Interaction
+84,Portal,Product Enquiry,16/05/2019 14:27,16/05/2019 14:38,CONT00025,Portal - Product Enquiry,Channel Interaction
+85,Service Centre,Maintenance Call out,26/10/2018 0:28,26/10/2018 1:04,CONT00074,Service Centre - Maintenance Call out,Channel Interaction
+86,Portal,Product Enquiry,19/09/2018 14:19,19/09/2018 15:11,CONT00015,Portal - Product Enquiry,Channel Interaction
+87,Contact Centre,Product Assistance,12/06/2019 5:42,12/06/2019 5:51,CONT00031,Contact Centre - Product Assistance,Channel Interaction
+88,Store,Warranty,25/01/2019 12:28,25/01/2019 12:54,CONT00080,Store - Warranty,Channel Interaction
+89,Contact Centre,Product Assistance,8/09/2018 20:13,8/09/2018 20:26,CONT00051,Contact Centre - Product Assistance,Channel Interaction
+90,Web,Product Disclosure Download,3/05/2019 2:32,3/05/2019 3:31,CONT00089,Web - Product Disclosure Download,Channel Interaction
+91,Portal,Create Account,20/10/2018 15:35,20/10/2018 16:33,CONT0005,Portal - Create Account,Channel Interaction
+92,Store,Return,9/09/2018 7:23,9/09/2018 7:59,CONT00073,Store - Return,Channel Interaction
+93,Portal,Create Account,4/10/2018 16:05,4/10/2018 16:37,CONT0009,Portal - Create Account,Channel Interaction
+94,Store,Purchase,16/09/2018 10:28,16/09/2018 10:30,CONT00027,Store - Purchase,Channel Interaction
+95,Portal,Product Enquiry,29/03/2019 10:16,29/03/2019 10:49,CONT000100,Portal - Product Enquiry,Channel Interaction
+96,Store,Warranty,22/06/2019 11:43,22/06/2019 11:56,CONT00035,Store - Warranty,Channel Interaction
+97,Store,Purchase,8/01/2019 7:44,8/01/2019 8:16,CONT00040,Store - Purchase,Channel Interaction
+98,Service Centre,Product Return,13/05/2019 3:45,13/05/2019 3:48,CONT00014,Service Centre - Product Return,Channel Interaction
+99,Store,Warranty,26/12/2018 18:01,26/12/2018 18:54,CONT00079,Store - Warranty,Channel Interaction
+100,Service Centre,Product Return,24/05/2019 6:47,24/05/2019 7:31,CONT0005,Service Centre - Product Return,Channel Interaction
+101,Web,Product Enquiry,14/02/2019 14:54,14/02/2019 15:17,CONT00037,Web - Product Enquiry,Channel Interaction
+102,Store,Purchase,10/03/2019 16:26,10/03/2019 16:37,CONT00096,Store - Purchase,Channel Interaction
+103,Portal,Create Account,8/10/2018 11:10,8/10/2018 11:32,CONT00019,Portal - Create Account,Channel Interaction
+104,Web,Product Disclosure Download,6/11/2018 2:51,6/11/2018 3:18,CONT00037,Web - Product Disclosure Download,Channel Interaction
+105,Web,Product Enquiry,29/06/2019 18:56,29/06/2019 19:40,CONT00017,Web - Product Enquiry,Channel Interaction
+106,Portal,Product Enquiry,23/04/2019 8:18,23/04/2019 9:08,CONT00075,Portal - Product Enquiry,Channel Interaction
+107,Store,Purchase,16/06/2019 18:42,16/06/2019 18:57,CONT00061,Store - Purchase,Channel Interaction
+108,Service Centre,Maintenance Call out,9/09/2018 23:03,9/09/2018 23:58,CONT00031,Service Centre - Maintenance Call out,Channel Interaction
+109,Store,Return,24/02/2019 8:56,24/02/2019 9:26,CONT00066,Store - Return,Channel Interaction
+110,Service Centre,Product Return,9/09/2018 18:34,9/09/2018 19:24,CONT00061,Service Centre - Product Return,Channel Interaction
+111,Portal,Update Details,12/07/2019 15:54,12/07/2019 16:53,CONT00067,Portal - Update Details,Channel Interaction
+112,Contact Centre,Product Assistance,6/03/2019 10:52,6/03/2019 11:38,CONT00076,Contact Centre - Product Assistance,Channel Interaction
+113,Portal,Create Account,18/03/2019 8:22,18/03/2019 8:59,CONT00011,Portal - Create Account,Channel Interaction
+114,Service Centre,Product Return,24/01/2019 23:57,25/01/2019 0:38,CONT00090,Service Centre - Product Return,Channel Interaction
+115,Store,Warranty,25/05/2019 16:32,25/05/2019 16:54,CONT00075,Store - Warranty,Channel Interaction
+116,Store,Warranty,20/09/2018 13:34,20/09/2018 14:33,CONT00057,Store - Warranty,Channel Interaction
+117,Portal,Update Details,14/05/2019 0:51,14/05/2019 0:52,CONT00085,Portal - Update Details,Channel Interaction
+118,Store,Purchase,3/01/2019 14:29,3/01/2019 14:31,CONT00021,Store - Purchase,Channel Interaction
+119,Portal,Update Details,8/03/2019 10:17,8/03/2019 10:28,CONT00031,Portal - Update Details,Channel Interaction
+120,Store,Warranty,25/05/2019 19:12,25/05/2019 19:54,CONT00019,Store - Warranty,Channel Interaction
+121,Web,Product Disclosure Download,10/11/2018 9:04,10/11/2018 9:39,CONT00046,Web - Product Disclosure Download,Channel Interaction
+122,Contact Centre,Warranty Claim,8/08/2018 4:32,8/08/2018 4:47,CONT00062,Contact Centre - Warranty Claim,Channel Interaction
+123,Portal,Update Details,14/04/2019 1:50,14/04/2019 2:26,CONT00042,Portal - Update Details,Channel Interaction
+124,Web,Product Enquiry,15/10/2018 6:28,15/10/2018 6:40,CONT00078,Web - Product Enquiry,Channel Interaction
+125,Service Centre,Product Return,17/05/2019 3:20,17/05/2019 3:21,CONT00052,Service Centre - Product Return,Channel Interaction
+126,Portal,Create Account,20/10/2018 6:00,20/10/2018 6:52,CONT00099,Portal - Create Account,Channel Interaction
+127,Contact Centre,Product Assistance,19/11/2018 4:49,19/11/2018 5:34,CONT00049,Contact Centre - Product Assistance,Channel Interaction
+128,Store,Return,2/06/2019 0:13,2/06/2019 0:31,CONT00051,Store - Return,Channel Interaction
+129,Contact Centre,Product Assistance,18/07/2019 3:56,18/07/2019 4:16,CONT00026,Contact Centre - Product Assistance,Channel Interaction
+130,Portal,Product Enquiry,21/02/2019 15:04,21/02/2019 15:40,CONT00049,Portal - Product Enquiry,Channel Interaction
+131,Portal,Create Account,14/07/2019 10:36,14/07/2019 11:01,CONT00010,Portal - Create Account,Channel Interaction
+132,Service Centre,Maintenance Call out,27/03/2019 7:12,27/03/2019 8:07,CONT00051,Service Centre - Maintenance Call out,Channel Interaction
+133,Portal,Update Details,30/06/2019 10:24,30/06/2019 11:24,CONT00094,Portal - Update Details,Channel Interaction
+134,Service Centre,Product Repair,4/07/2019 19:45,4/07/2019 19:46,CONT00041,Service Centre - Product Repair,Channel Interaction
+135,Portal,Update Details,23/11/2018 14:30,23/11/2018 15:26,CONT00071,Portal - Update Details,Channel Interaction
+136,Web,Product Enquiry,1/06/2019 2:19,1/06/2019 2:58,CONT00039,Web - Product Enquiry,Channel Interaction
+137,Service Centre,Maintenance Call out,12/02/2019 23:20,12/02/2019 23:44,CONT00065,Service Centre - Maintenance Call out,Channel Interaction
+138,Service Centre,Product Repair,12/02/2019 17:26,12/02/2019 18:21,CONT00033,Service Centre - Product Repair,Channel Interaction
+139,Portal,Create Account,14/03/2019 11:39,14/03/2019 11:54,CONT00075,Portal - Create Account,Channel Interaction
+140,Store,Warranty,5/04/2019 22:45,5/04/2019 23:07,CONT00078,Store - Warranty,Channel Interaction
+141,Portal,Create Account,6/12/2018 16:51,6/12/2018 17:34,CONT00044,Portal - Create Account,Channel Interaction
+142,Contact Centre,Warranty Claim,12/09/2018 6:32,12/09/2018 7:23,CONT0009,Contact Centre - Warranty Claim,Channel Interaction
+143,Service Centre,Maintenance Call out,25/03/2019 17:10,25/03/2019 17:28,CONT00071,Service Centre - Maintenance Call out,Channel Interaction
+144,Store,Purchase,12/06/2019 15:31,12/06/2019 16:29,CONT00017,Store - Purchase,Channel Interaction
+145,Portal,Update Details,22/05/2019 22:40,22/05/2019 23:07,CONT00037,Portal - Update Details,Channel Interaction
+146,Service Centre,Maintenance Call out,21/09/2018 17:35,21/09/2018 17:49,CONT00086,Service Centre - Maintenance Call out,Channel Interaction
+147,Service Centre,Product Repair,18/08/2018 0:16,18/08/2018 0:39,CONT00025,Service Centre - Product Repair,Channel Interaction
+148,Store,Warranty,22/01/2019 11:36,22/01/2019 11:46,CONT0003,Store - Warranty,Channel Interaction
+149,Portal,Update Details,16/08/2018 0:49,16/08/2018 1:08,CONT00028,Portal - Update Details,Channel Interaction
+150,Store,Purchase,26/11/2018 6:26,26/11/2018 7:10,CONT00044,Store - Purchase,Channel Interaction
+151,Service Centre,Maintenance Call out,3/05/2019 3:57,3/05/2019 4:43,CONT00092,Service Centre - Maintenance Call out,Channel Interaction
+152,Service Centre,Product Return,28/03/2019 13:50,28/03/2019 13:51,CONT00086,Service Centre - Product Return,Channel Interaction
+153,Portal,Product Enquiry,24/07/2019 1:17,24/07/2019 1:28,CONT00080,Portal - Product Enquiry,Channel Interaction
+154,Contact Centre,Warranty Claim,31/08/2018 11:36,31/08/2018 12:12,CONT00046,Contact Centre - Warranty Claim,Channel Interaction
+155,Portal,Product Enquiry,17/03/2019 16:18,17/03/2019 16:28,CONT00086,Portal - Product Enquiry,Channel Interaction
+156,Service Centre,Product Return,15/03/2019 16:23,15/03/2019 16:41,CONT00057,Service Centre - Product Return,Channel Interaction
+157,Store,Return,30/10/2018 7:11,30/10/2018 7:30,CONT0005,Store - Return,Channel Interaction
+158,Store,Warranty,28/06/2019 3:07,28/06/2019 3:26,CONT00081,Store - Warranty,Channel Interaction
+159,Web,Product Enquiry,11/12/2018 8:00,11/12/2018 9:00,CONT0008,Web - Product Enquiry,Channel Interaction
+160,Store,Purchase,1/04/2019 1:54,1/04/2019 2:42,CONT00011,Store - Purchase,Channel Interaction
+161,Portal,Update Details,1/08/2018 21:36,1/08/2018 22:10,CONT00013,Portal - Update Details,Channel Interaction
+162,Service Centre,Maintenance Call out,20/01/2019 0:32,20/01/2019 0:33,CONT00059,Service Centre - Maintenance Call out,Channel Interaction
+163,Portal,Create Account,28/06/2019 11:39,28/06/2019 12:36,CONT00069,Portal - Create Account,Channel Interaction
+164,Service Centre,Product Repair,17/08/2018 12:08,17/08/2018 12:42,CONT0004,Service Centre - Product Repair,Channel Interaction
+165,Store,Return,10/07/2019 7:45,10/07/2019 8:11,CONT00020,Store - Return,Channel Interaction
+166,Service Centre,Maintenance Call out,30/04/2019 18:34,30/04/2019 19:26,CONT00015,Service Centre - Maintenance Call out,Channel Interaction
+167,Web,Product Enquiry,7/08/2018 11:47,7/08/2018 12:36,CONT00077,Web - Product Enquiry,Channel Interaction
+168,Service Centre,Maintenance Call out,1/07/2019 21:50,1/07/2019 22:09,CONT00045,Service Centre - Maintenance Call out,Channel Interaction
+169,Store,Warranty,13/09/2018 15:45,13/09/2018 16:18,CONT00085,Store - Warranty,Channel Interaction
+170,Contact Centre,Product Assistance,16/06/2019 18:07,16/06/2019 18:39,CONT00079,Contact Centre - Product Assistance,Channel Interaction
+171,Contact Centre,Product Assistance,22/06/2019 21:26,22/06/2019 21:55,CONT00021,Contact Centre - Product Assistance,Channel Interaction
+172,Portal,Create Account,7/04/2019 18:26,7/04/2019 18:44,CONT00037,Portal - Create Account,Channel Interaction
+173,Web,Product Disclosure Download,28/02/2019 3:12,28/02/2019 3:48,CONT00057,Web - Product Disclosure Download,Channel Interaction
+174,Service Centre,Maintenance Call out,17/05/2019 2:44,17/05/2019 3:19,CONT00055,Service Centre - Maintenance Call out,Channel Interaction
+175,Service Centre,Product Repair,4/10/2018 1:27,4/10/2018 1:57,CONT00015,Service Centre - Product Repair,Channel Interaction
+176,Service Centre,Product Return,26/12/2018 18:52,26/12/2018 19:48,CONT00027,Service Centre - Product Return,Channel Interaction
+177,Service Centre,Product Return,7/11/2018 1:06,7/11/2018 1:55,CONT00012,Service Centre - Product Return,Channel Interaction
+178,Portal,Product Enquiry,11/06/2019 10:28,11/06/2019 11:26,CONT00045,Portal - Product Enquiry,Channel Interaction
+179,Store,Purchase,14/09/2018 13:46,14/09/2018 14:19,CONT00014,Store - Purchase,Channel Interaction
+180,Service Centre,Product Return,11/06/2019 23:39,12/06/2019 0:24,CONT00082,Service Centre - Product Return,Channel Interaction
+181,Store,Warranty,22/08/2018 6:59,22/08/2018 7:08,CONT00021,Store - Warranty,Channel Interaction
+182,Portal,Create Account,14/09/2018 5:02,14/09/2018 5:30,CONT00094,Portal - Create Account,Channel Interaction
+183,Web,Product Disclosure Download,21/09/2018 13:41,21/09/2018 14:14,CONT00021,Web - Product Disclosure Download,Channel Interaction
+184,Contact Centre,Product Assistance,28/10/2018 4:06,28/10/2018 4:11,CONT0007,Contact Centre - Product Assistance,Channel Interaction
+185,Service Centre,Product Repair,18/03/2019 8:16,18/03/2019 8:59,CONT00090,Service Centre - Product Repair,Channel Interaction
+186,Store,Return,12/04/2019 2:50,12/04/2019 3:36,CONT00049,Store - Return,Channel Interaction
+187,Portal,Product Enquiry,11/09/2018 3:21,11/09/2018 4:00,CONT00095,Portal - Product Enquiry,Channel Interaction
+188,Portal,Create Account,17/10/2018 12:07,17/10/2018 12:31,CONT00058,Portal - Create Account,Channel Interaction
+189,Store,Warranty,30/04/2019 9:09,30/04/2019 9:18,CONT00036,Store - Warranty,Channel Interaction
+190,Portal,Update Details,1/09/2018 0:55,1/09/2018 0:56,CONT0004,Portal - Update Details,Channel Interaction
+191,Portal,Product Enquiry,17/12/2018 7:57,17/12/2018 8:20,CONT00072,Portal - Product Enquiry,Channel Interaction
+192,Service Centre,Product Return,8/09/2018 10:48,8/09/2018 11:43,CONT00098,Service Centre - Product Return,Channel Interaction
+193,Contact Centre,Warranty Claim,25/07/2019 4:24,25/07/2019 4:26,CONT0008,Contact Centre - Warranty Claim,Channel Interaction
+194,Service Centre,Product Return,14/05/2019 7:04,14/05/2019 7:38,CONT00083,Service Centre - Product Return,Channel Interaction
+195,Store,Warranty,18/03/2019 2:09,18/03/2019 2:39,CONT00089,Store - Warranty,Channel Interaction
+196,Contact Centre,Warranty Claim,16/02/2019 17:14,16/02/2019 18:00,CONT0002,Contact Centre - Warranty Claim,Channel Interaction
+197,Service Centre,Product Repair,28/07/2019 10:07,28/07/2019 10:09,CONT00014,Service Centre - Product Repair,Channel Interaction
+198,Web,Update Details,29/06/2019 3:48,29/06/2019 4:46,CONT00064,Web - Update Details,Channel Interaction
+199,Portal,Update Details,10/07/2019 8:52,10/07/2019 9:43,CONT00042,Portal - Update Details,Channel Interaction
+200,Service Centre,Product Repair,27/11/2018 12:37,27/11/2018 13:03,CONT00022,Service Centre - Product Repair,Channel Interaction
+201,Web,Product Enquiry,9/09/2018 23:39,9/09/2018 23:44,CONT00091,Web - Product Enquiry,Channel Interaction
+202,Store,Purchase,9/08/2018 12:57,9/08/2018 13:29,CONT00051,Store - Purchase,Channel Interaction
+203,Contact Centre,Warranty Claim,9/12/2018 23:51,10/12/2018 0:08,CONT00032,Contact Centre - Warranty Claim,Channel Interaction
+204,Service Centre,Product Return,13/10/2018 10:11,13/10/2018 10:14,CONT00021,Service Centre - Product Return,Channel Interaction
+205,Contact Centre,Warranty Claim,13/11/2018 3:58,13/11/2018 4:55,CONT00066,Contact Centre - Warranty Claim,Channel Interaction
+206,Portal,Update Details,10/06/2019 19:20,10/06/2019 19:34,CONT00064,Portal - Update Details,Channel Interaction
+207,Portal,Update Details,19/07/2019 3:58,19/07/2019 4:53,CONT00039,Portal - Update Details,Channel Interaction
+208,Service Centre,Maintenance Call out,8/03/2019 10:24,8/03/2019 10:33,CONT00082,Service Centre - Maintenance Call out,Channel Interaction
+209,Service Centre,Product Repair,11/11/2018 12:32,11/11/2018 12:53,CONT00098,Service Centre - Product Repair,Channel Interaction
+210,Service Centre,Product Repair,28/12/2018 0:46,28/12/2018 1:33,CONT00093,Service Centre - Product Repair,Channel Interaction
+211,Service Centre,Maintenance Call out,9/05/2019 11:59,9/05/2019 12:13,CONT00027,Service Centre - Maintenance Call out,Channel Interaction
+212,Web,Product Enquiry,26/09/2018 18:19,26/09/2018 18:30,CONT00093,Web - Product Enquiry,Channel Interaction
+213,Web,Product Enquiry,12/12/2018 2:37,12/12/2018 3:06,CONT00098,Web - Product Enquiry,Channel Interaction
+214,Web,Product Disclosure Download,13/11/2018 7:27,13/11/2018 8:24,CONT00045,Web - Product Disclosure Download,Channel Interaction
+215,Web,Product Enquiry,11/09/2018 10:57,11/09/2018 11:18,CONT00092,Web - Product Enquiry,Channel Interaction
+216,Portal,Product Enquiry,10/07/2019 5:12,10/07/2019 6:09,CONT00047,Portal - Product Enquiry,Channel Interaction
+217,Store,Warranty,17/05/2019 1:21,17/05/2019 2:05,CONT00059,Store - Warranty,Channel Interaction
+218,Contact Centre,Product Assistance,16/11/2018 10:57,16/11/2018 11:43,CONT00057,Contact Centre - Product Assistance,Channel Interaction
+219,Service Centre,Product Return,12/05/2019 18:40,12/05/2019 18:44,CONT0001,Service Centre - Product Return,Channel Interaction
+220,Portal,Update Details,28/12/2018 18:43,28/12/2018 19:04,CONT00058,Portal - Update Details,Channel Interaction
+221,Web,Product Disclosure Download,31/10/2018 16:30,31/10/2018 16:51,CONT00019,Web - Product Disclosure Download,Channel Interaction
+222,Portal,Create Account,20/10/2018 16:05,20/10/2018 16:32,CONT00090,Portal - Create Account,Channel Interaction
+223,Store,Purchase,9/04/2019 22:07,9/04/2019 22:16,CONT0006,Store - Purchase,Channel Interaction
+224,Service Centre,Maintenance Call out,19/03/2019 4:31,19/03/2019 4:53,CONT00029,Service Centre - Maintenance Call out,Channel Interaction
+225,Web,Product Disclosure Download,9/04/2019 15:57,9/04/2019 16:31,CONT0009,Web - Product Disclosure Download,Channel Interaction
+226,Service Centre,Product Repair,22/05/2019 21:08,22/05/2019 21:43,CONT00023,Service Centre - Product Repair,Channel Interaction
+227,Service Centre,Maintenance Call out,7/12/2018 10:35,7/12/2018 11:14,CONT00093,Service Centre - Maintenance Call out,Channel Interaction
+228,Service Centre,Maintenance Call out,8/08/2018 8:51,8/08/2018 9:39,CONT00081,Service Centre - Maintenance Call out,Channel Interaction
+229,Portal,Product Enquiry,25/03/2019 9:35,25/03/2019 10:28,CONT00044,Portal - Product Enquiry,Channel Interaction
+230,Portal,Product Enquiry,21/02/2019 13:42,21/02/2019 14:26,CONT00079,Portal - Product Enquiry,Channel Interaction
+231,Contact Centre,Warranty Claim,12/04/2019 23:03,12/04/2019 23:25,CONT00062,Contact Centre - Warranty Claim,Channel Interaction
+232,Store,Warranty,23/03/2019 13:09,23/03/2019 13:47,CONT00097,Store - Warranty,Channel Interaction
+233,Service Centre,Product Return,4/06/2019 4:18,4/06/2019 5:11,CONT00037,Service Centre - Product Return,Channel Interaction
+234,Contact Centre,Product Assistance,30/10/2018 16:22,30/10/2018 16:47,CONT00077,Contact Centre - Product Assistance,Channel Interaction
+235,Web,Product Enquiry,31/05/2019 23:17,31/05/2019 23:47,CONT00094,Web - Product Enquiry,Channel Interaction
+236,Service Centre,Product Return,15/05/2019 4:53,15/05/2019 5:50,CONT00042,Service Centre - Product Return,Channel Interaction
+237,Web,Product Disclosure Download,30/06/2019 6:58,30/06/2019 7:03,CONT00088,Web - Product Disclosure Download,Channel Interaction
+238,Web,Update Details,19/04/2019 11:28,19/04/2019 12:00,CONT00014,Web - Update Details,Channel Interaction
+239,Store,Return,30/09/2018 15:39,30/09/2018 16:14,CONT00095,Store - Return,Channel Interaction
+240,Portal,Create Account,4/12/2018 21:19,4/12/2018 22:15,CONT0001,Portal - Create Account,Channel Interaction
+241,Contact Centre,Product Assistance,2/08/2018 20:35,2/08/2018 21:05,CONT00014,Contact Centre - Product Assistance,Channel Interaction
+242,Store,Return,24/06/2019 18:19,24/06/2019 18:43,CONT00097,Store - Return,Channel Interaction
+243,Store,Warranty,10/06/2019 5:17,10/06/2019 5:32,CONT00075,Store - Warranty,Channel Interaction
+244,Contact Centre,Product Assistance,31/07/2018 18:28,31/07/2018 19:22,CONT00018,Contact Centre - Product Assistance,Channel Interaction
+245,Web,Update Details,13/03/2019 22:07,13/03/2019 22:42,CONT00033,Web - Update Details,Channel Interaction
+246,Contact Centre,Warranty Claim,9/08/2018 17:47,9/08/2018 18:06,CONT00031,Contact Centre - Warranty Claim,Channel Interaction
+247,Contact Centre,Warranty Claim,3/07/2019 13:09,3/07/2019 13:41,CONT00078,Contact Centre - Warranty Claim,Channel Interaction
+248,Portal,Product Enquiry,30/07/2019 23:04,30/07/2019 23:22,CONT00099,Portal - Product Enquiry,Channel Interaction
+249,Contact Centre,Warranty Claim,30/03/2019 6:21,30/03/2019 6:54,CONT00098,Contact Centre - Warranty Claim,Channel Interaction
+250,Web,Product Enquiry,20/05/2019 9:24,20/05/2019 10:07,CONT00071,Web - Product Enquiry,Channel Interaction
+251,Service Centre,Product Repair,5/05/2019 19:16,5/05/2019 19:50,CONT0002,Service Centre - Product Repair,Channel Interaction
+252,Service Centre,Product Return,28/10/2018 1:40,28/10/2018 2:34,CONT0009,Service Centre - Product Return,Channel Interaction
+253,Contact Centre,Warranty Claim,3/06/2019 2:55,3/06/2019 3:08,CONT0007,Contact Centre - Warranty Claim,Channel Interaction
+254,Store,Warranty,2/08/2018 18:51,2/08/2018 19:34,CONT00066,Store - Warranty,Channel Interaction
+255,Contact Centre,Product Assistance,30/06/2019 8:27,30/06/2019 9:07,CONT0008,Contact Centre - Product Assistance,Channel Interaction
+256,Contact Centre,Warranty Claim,30/07/2019 1:40,30/07/2019 1:50,CONT00031,Contact Centre - Warranty Claim,Channel Interaction
+257,Store,Warranty,6/11/2018 1:38,6/11/2018 1:42,CONT00026,Store - Warranty,Channel Interaction
+258,Service Centre,Product Return,20/03/2019 18:06,20/03/2019 18:45,CONT00033,Service Centre - Product Return,Channel Interaction
+259,Store,Purchase,24/12/2018 2:44,24/12/2018 2:56,CONT00071,Store - Purchase,Channel Interaction
+260,Store,Purchase,18/03/2019 12:50,18/03/2019 13:49,CONT00071,Store - Purchase,Channel Interaction
+261,Portal,Create Account,5/07/2019 10:46,5/07/2019 11:12,CONT00072,Portal - Create Account,Channel Interaction
+262,Contact Centre,Product Assistance,21/05/2019 17:52,21/05/2019 18:27,CONT00076,Contact Centre - Product Assistance,Channel Interaction
+263,Portal,Update Details,9/01/2019 0:31,9/01/2019 0:37,CONT00052,Portal - Update Details,Channel Interaction
+264,Contact Centre,Warranty Claim,21/05/2019 0:57,21/05/2019 1:42,CONT00090,Contact Centre - Warranty Claim,Channel Interaction
+265,Web,Update Details,10/09/2018 22:02,10/09/2018 22:52,CONT00018,Web - Update Details,Channel Interaction
+266,Store,Return,10/06/2019 7:48,10/06/2019 8:18,CONT00078,Store - Return,Channel Interaction
+267,Web,Update Details,6/08/2018 20:25,6/08/2018 21:08,CONT00026,Web - Update Details,Channel Interaction
+268,Contact Centre,Product Assistance,17/11/2018 13:14,17/11/2018 13:56,CONT00096,Contact Centre - Product Assistance,Channel Interaction
+269,Portal,Product Enquiry,7/02/2019 17:33,7/02/2019 18:05,CONT00034,Portal - Product Enquiry,Channel Interaction
+270,Web,Product Disclosure Download,6/11/2018 10:15,6/11/2018 10:33,CONT00047,Web - Product Disclosure Download,Channel Interaction
+271,Service Centre,Maintenance Call out,15/09/2018 2:24,15/09/2018 3:10,CONT00049,Service Centre - Maintenance Call out,Channel Interaction
+272,Portal,Product Enquiry,12/06/2019 6:45,12/06/2019 7:09,CONT00050,Portal - Product Enquiry,Channel Interaction
+273,Service Centre,Product Return,8/10/2018 13:45,8/10/2018 14:29,CONT00074,Service Centre - Product Return,Channel Interaction
+274,Contact Centre,Product Assistance,9/09/2018 8:08,9/09/2018 8:17,CONT00085,Contact Centre - Product Assistance,Channel Interaction
+275,Store,Return,12/07/2019 19:10,12/07/2019 20:08,CONT00018,Store - Return,Channel Interaction
+276,Service Centre,Product Repair,29/10/2018 20:12,29/10/2018 20:32,CONT00092,Service Centre - Product Repair,Channel Interaction
+277,Contact Centre,Product Assistance,23/04/2019 10:43,23/04/2019 11:14,CONT00094,Contact Centre - Product Assistance,Channel Interaction
+278,Portal,Create Account,1/03/2019 23:07,1/03/2019 23:14,CONT0003,Portal - Create Account,Channel Interaction
+279,Web,Product Enquiry,9/01/2019 14:41,9/01/2019 15:33,CONT00010,Web - Product Enquiry,Channel Interaction
+280,Contact Centre,Warranty Claim,22/09/2018 16:25,22/09/2018 16:52,CONT00048,Contact Centre - Warranty Claim,Channel Interaction
+281,Store,Purchase,22/01/2019 14:12,22/01/2019 14:43,CONT0008,Store - Purchase,Channel Interaction
+282,Service Centre,Product Return,23/11/2018 14:06,23/11/2018 14:23,CONT00087,Service Centre - Product Return,Channel Interaction
+283,Portal,Update Details,7/09/2018 17:34,7/09/2018 18:33,CONT00023,Portal - Update Details,Channel Interaction
+284,Service Centre,Product Return,1/05/2019 10:57,1/05/2019 11:05,CONT00028,Service Centre - Product Return,Channel Interaction
+285,Service Centre,Product Return,16/12/2018 16:16,16/12/2018 16:56,CONT00049,Service Centre - Product Return,Channel Interaction
+286,Portal,Product Enquiry,15/08/2018 1:18,15/08/2018 1:44,CONT00060,Portal - Product Enquiry,Channel Interaction
+287,Service Centre,Maintenance Call out,23/02/2019 16:22,23/02/2019 16:38,CONT00062,Service Centre - Maintenance Call out,Channel Interaction
+288,Contact Centre,Product Assistance,5/01/2019 2:32,5/01/2019 3:04,CONT00099,Contact Centre - Product Assistance,Channel Interaction
+289,Service Centre,Product Return,15/12/2018 5:22,15/12/2018 5:59,CONT00071,Service Centre - Product Return,Channel Interaction
+290,Portal,Product Enquiry,28/04/2019 7:10,28/04/2019 7:48,CONT00090,Portal - Product Enquiry,Channel Interaction
+291,Contact Centre,Warranty Claim,3/06/2019 1:12,3/06/2019 1:46,CONT00047,Contact Centre - Warranty Claim,Channel Interaction
+292,Store,Purchase,11/08/2018 19:35,11/08/2018 19:56,CONT00054,Store - Purchase,Channel Interaction
+293,Portal,Update Details,4/05/2019 3:08,4/05/2019 3:26,CONT00033,Portal - Update Details,Channel Interaction
+294,Web,Product Enquiry,29/09/2018 19:54,29/09/2018 20:05,CONT00032,Web - Product Enquiry,Channel Interaction
+295,Service Centre,Product Repair,10/10/2018 4:07,10/10/2018 4:47,CONT00023,Service Centre - Product Repair,Channel Interaction
+296,Service Centre,Maintenance Call out,15/12/2018 0:16,15/12/2018 0:17,CONT00043,Service Centre - Maintenance Call out,Channel Interaction
+297,Portal,Update Details,29/09/2018 1:37,29/09/2018 2:14,CONT00062,Portal - Update Details,Channel Interaction
+298,Service Centre,Product Return,9/10/2018 1:56,9/10/2018 2:47,CONT00083,Service Centre - Product Return,Channel Interaction
+299,Service Centre,Product Repair,4/05/2019 12:07,4/05/2019 12:12,CONT00073,Service Centre - Product Repair,Channel Interaction
+300,Service Centre,Maintenance Call out,20/04/2019 14:43,20/04/2019 15:35,CONT00048,Service Centre - Maintenance Call out,Channel Interaction
+301,Contact Centre,Product Assistance,12/03/2019 0:54,12/03/2019 1:08,CONT0001,Contact Centre - Product Assistance,Channel Interaction
+302,Store,Warranty,5/09/2018 0:25,5/09/2018 1:12,CONT00022,Store - Warranty,Channel Interaction
+303,Service Centre,Product Return,4/08/2018 11:38,4/08/2018 12:29,CONT00086,Service Centre - Product Return,Channel Interaction
+304,Service Centre,Maintenance Call out,12/05/2019 5:53,12/05/2019 6:13,CONT00070,Service Centre - Maintenance Call out,Channel Interaction
+305,Service Centre,Product Repair,20/09/2018 7:01,20/09/2018 7:06,CONT00092,Service Centre - Product Repair,Channel Interaction
+306,Service Centre,Maintenance Call out,4/06/2019 22:48,4/06/2019 22:59,CONT00066,Service Centre - Maintenance Call out,Channel Interaction
+307,Store,Warranty,29/03/2019 16:01,29/03/2019 16:44,CONT00031,Store - Warranty,Channel Interaction
+308,Portal,Create Account,30/10/2018 16:18,30/10/2018 16:28,CONT00067,Portal - Create Account,Channel Interaction
+309,Portal,Product Enquiry,31/12/2018 8:49,31/12/2018 8:55,CONT00048,Portal - Product Enquiry,Channel Interaction
+310,Portal,Update Details,21/05/2019 1:10,21/05/2019 1:19,CONT00094,Portal - Update Details,Channel Interaction
+311,Service Centre,Maintenance Call out,14/11/2018 20:28,14/11/2018 20:35,CONT00051,Service Centre - Maintenance Call out,Channel Interaction
+312,Contact Centre,Product Assistance,18/10/2018 7:12,18/10/2018 7:59,CONT00092,Contact Centre - Product Assistance,Channel Interaction
+313,Web,Product Disclosure Download,20/09/2018 8:00,20/09/2018 8:40,CONT00018,Web - Product Disclosure Download,Channel Interaction
+314,Service Centre,Product Repair,20/08/2018 23:38,21/08/2018 0:25,CONT00088,Service Centre - Product Repair,Channel Interaction
+315,Contact Centre,Warranty Claim,4/12/2018 16:19,4/12/2018 16:44,CONT00052,Contact Centre - Warranty Claim,Channel Interaction
+316,Service Centre,Product Return,1/08/2018 14:29,1/08/2018 14:56,CONT00068,Service Centre - Product Return,Channel Interaction
+317,Service Centre,Maintenance Call out,11/04/2019 10:15,11/04/2019 10:26,CONT00065,Service Centre - Maintenance Call out,Channel Interaction
+318,Store,Warranty,25/10/2018 13:34,25/10/2018 14:14,CONT00056,Store - Warranty,Channel Interaction
+319,Portal,Product Enquiry,11/09/2018 14:17,11/09/2018 14:31,CONT00049,Portal - Product Enquiry,Channel Interaction
+320,Store,Purchase,28/12/2018 15:11,28/12/2018 15:32,CONT0008,Store - Purchase,Channel Interaction
+321,Store,Purchase,2/06/2019 10:29,2/06/2019 10:59,CONT00065,Store - Purchase,Channel Interaction
+322,Service Centre,Product Repair,5/06/2019 9:16,5/06/2019 10:16,CONT00033,Service Centre - Product Repair,Channel Interaction
+323,Store,Return,13/06/2019 11:26,13/06/2019 11:31,CONT00088,Store - Return,Channel Interaction
+324,Store,Purchase,29/05/2019 19:17,29/05/2019 19:51,CONT00076,Store - Purchase,Channel Interaction
+325,Contact Centre,Product Assistance,14/03/2019 9:51,14/03/2019 10:41,CONT00085,Contact Centre - Product Assistance,Channel Interaction
+326,Store,Warranty,17/06/2019 20:17,17/06/2019 21:08,CONT00013,Store - Warranty,Channel Interaction
+327,Service Centre,Product Repair,24/01/2019 13:17,24/01/2019 13:40,CONT00079,Service Centre - Product Repair,Channel Interaction
+328,Contact Centre,Product Assistance,28/05/2019 20:16,28/05/2019 21:11,CONT00060,Contact Centre - Product Assistance,Channel Interaction
+329,Contact Centre,Warranty Claim,28/02/2019 1:46,28/02/2019 2:17,CONT00091,Contact Centre - Warranty Claim,Channel Interaction
+330,Contact Centre,Warranty Claim,24/12/2018 5:26,24/12/2018 5:34,CONT00024,Contact Centre - Warranty Claim,Channel Interaction
+331,Portal,Update Details,4/02/2019 8:23,4/02/2019 8:46,CONT00068,Portal - Update Details,Channel Interaction
+332,Contact Centre,Product Assistance,2/08/2018 18:28,2/08/2018 19:22,CONT00053,Contact Centre - Product Assistance,Channel Interaction
+333,Store,Warranty,29/11/2018 12:55,29/11/2018 13:50,CONT00021,Store - Warranty,Channel Interaction
+334,Web,Update Details,8/06/2019 20:09,8/06/2019 20:43,CONT00038,Web - Update Details,Channel Interaction
+335,Portal,Create Account,18/06/2019 22:09,18/06/2019 23:01,CONT00067,Portal - Create Account,Channel Interaction
+336,Service Centre,Product Repair,23/06/2019 19:31,23/06/2019 20:12,CONT00030,Service Centre - Product Repair,Channel Interaction
+337,Store,Warranty,24/08/2018 23:28,24/08/2018 23:48,CONT00080,Store - Warranty,Channel Interaction
+338,Web,Product Disclosure Download,1/04/2019 19:16,1/04/2019 19:36,CONT00090,Web - Product Disclosure Download,Channel Interaction
+339,Store,Warranty,25/07/2019 2:22,25/07/2019 2:50,CONT00038,Store - Warranty,Channel Interaction
+340,Service Centre,Product Return,15/08/2018 14:10,15/08/2018 14:35,CONT00082,Service Centre - Product Return,Channel Interaction
+341,Contact Centre,Warranty Claim,18/02/2019 23:06,18/02/2019 23:50,CONT00076,Contact Centre - Warranty Claim,Channel Interaction
+342,Portal,Create Account,10/08/2018 23:16,10/08/2018 23:28,CONT00028,Portal - Create Account,Channel Interaction
+343,Portal,Product Enquiry,6/10/2018 8:42,6/10/2018 8:46,CONT00024,Portal - Product Enquiry,Channel Interaction
+344,Portal,Product Enquiry,17/09/2018 8:51,17/09/2018 8:53,CONT00099,Portal - Product Enquiry,Channel Interaction
+345,Web,Product Enquiry,8/02/2019 0:29,8/02/2019 0:57,CONT00063,Web - Product Enquiry,Channel Interaction
+346,Web,Product Disclosure Download,19/12/2018 18:51,19/12/2018 19:50,CONT00061,Web - Product Disclosure Download,Channel Interaction
+347,Service Centre,Product Return,9/12/2018 8:04,9/12/2018 8:11,CONT00045,Service Centre - Product Return,Channel Interaction
+348,Portal,Update Details,11/05/2019 19:44,11/05/2019 20:30,CONT00079,Portal - Update Details,Channel Interaction
+349,Service Centre,Product Return,12/11/2018 0:08,12/11/2018 0:30,CONT00010,Service Centre - Product Return,Channel Interaction
+350,Service Centre,Product Repair,25/07/2019 8:29,25/07/2019 8:36,CONT00066,Service Centre - Product Repair,Channel Interaction
+351,Web,Product Disclosure Download,8/10/2018 9:12,8/10/2018 9:37,CONT00069,Web - Product Disclosure Download,Channel Interaction
+352,Web,Update Details,11/08/2018 5:37,11/08/2018 5:52,CONT00018,Web - Update Details,Channel Interaction
+353,Web,Product Enquiry,14/10/2018 19:53,14/10/2018 20:32,CONT00030,Web - Product Enquiry,Channel Interaction
+354,Web,Product Enquiry,20/11/2018 10:07,20/11/2018 10:20,CONT000100,Web - Product Enquiry,Channel Interaction
+355,Contact Centre,Product Assistance,23/08/2018 16:32,23/08/2018 17:09,CONT00061,Contact Centre - Product Assistance,Channel Interaction
+356,Web,Product Disclosure Download,15/07/2019 3:44,15/07/2019 4:10,CONT00085,Web - Product Disclosure Download,Channel Interaction
+357,Contact Centre,Product Assistance,9/09/2018 14:50,9/09/2018 15:18,CONT00036,Contact Centre - Product Assistance,Channel Interaction
+358,Portal,Product Enquiry,20/06/2019 7:39,20/06/2019 8:05,CONT00040,Portal - Product Enquiry,Channel Interaction
+359,Web,Product Enquiry,15/04/2019 20:09,15/04/2019 20:57,CONT00054,Web - Product Enquiry,Channel Interaction
+360,Portal,Product Enquiry,30/01/2019 7:40,30/01/2019 7:56,CONT00028,Portal - Product Enquiry,Channel Interaction
+361,Portal,Create Account,3/01/2019 9:24,3/01/2019 10:19,CONT00049,Portal - Create Account,Channel Interaction
+362,Contact Centre,Warranty Claim,17/06/2019 16:43,17/06/2019 17:07,CONT00091,Contact Centre - Warranty Claim,Channel Interaction
+363,Web,Update Details,29/08/2018 18:43,29/08/2018 18:48,CONT00033,Web - Update Details,Channel Interaction
+364,Service Centre,Product Return,26/07/2019 16:14,26/07/2019 16:51,CONT00025,Service Centre - Product Return,Channel Interaction
+365,Portal,Update Details,5/03/2019 9:41,5/03/2019 10:16,CONT00026,Portal - Update Details,Channel Interaction
+366,Contact Centre,Product Assistance,30/03/2019 15:17,30/03/2019 15:29,CONT00045,Contact Centre - Product Assistance,Channel Interaction
+367,Service Centre,Product Repair,6/03/2019 20:11,6/03/2019 20:16,CONT00082,Service Centre - Product Repair,Channel Interaction
+368,Portal,Update Details,22/06/2019 6:31,22/06/2019 6:55,CONT00018,Portal - Update Details,Channel Interaction
+369,Portal,Update Details,14/04/2019 14:15,14/04/2019 14:31,CONT00085,Portal - Update Details,Channel Interaction
+370,Service Centre,Maintenance Call out,20/04/2019 18:25,20/04/2019 18:41,CONT00067,Service Centre - Maintenance Call out,Channel Interaction
+371,Store,Return,5/12/2018 13:57,5/12/2018 14:56,CONT0006,Store - Return,Channel Interaction
+372,Service Centre,Product Return,10/08/2018 10:14,10/08/2018 11:03,CONT00075,Service Centre - Product Return,Channel Interaction
+373,Web,Update Details,12/11/2018 18:07,12/11/2018 18:44,CONT00048,Web - Update Details,Channel Interaction
+374,Service Centre,Product Return,14/07/2019 16:19,14/07/2019 16:54,CONT00025,Service Centre - Product Return,Channel Interaction
+375,Web,Product Disclosure Download,5/02/2019 0:39,5/02/2019 0:46,CONT00024,Web - Product Disclosure Download,Channel Interaction
+376,Store,Warranty,20/12/2018 10:50,20/12/2018 11:14,CONT00044,Store - Warranty,Channel Interaction
+377,Service Centre,Product Repair,30/01/2019 5:05,30/01/2019 5:40,CONT00056,Service Centre - Product Repair,Channel Interaction
+378,Portal,Product Enquiry,28/12/2018 23:04,28/12/2018 23:19,CONT00049,Portal - Product Enquiry,Channel Interaction
+379,Store,Return,10/02/2019 3:56,10/02/2019 4:23,CONT00084,Store - Return,Channel Interaction
+380,Store,Purchase,5/12/2018 0:32,5/12/2018 1:31,CONT00068,Store - Purchase,Channel Interaction
+381,Store,Warranty,14/10/2018 15:24,14/10/2018 15:44,CONT00095,Store - Warranty,Channel Interaction
+382,Portal,Update Details,28/06/2019 13:44,28/06/2019 14:01,CONT00093,Portal - Update Details,Channel Interaction
+383,Service Centre,Product Return,13/06/2019 9:59,13/06/2019 10:32,CONT0005,Service Centre - Product Return,Channel Interaction
+384,Portal,Update Details,30/03/2019 0:02,30/03/2019 0:36,CONT00012,Portal - Update Details,Channel Interaction
+385,Service Centre,Product Return,29/05/2019 7:30,29/05/2019 7:57,CONT00086,Service Centre - Product Return,Channel Interaction
+386,Store,Return,9/12/2018 13:03,9/12/2018 13:13,CONT00042,Store - Return,Channel Interaction
+387,Portal,Update Details,5/08/2018 22:54,5/08/2018 23:02,CONT00091,Portal - Update Details,Channel Interaction
+388,Service Centre,Product Return,25/11/2018 8:29,25/11/2018 8:44,CONT00018,Service Centre - Product Return,Channel Interaction
+389,Service Centre,Maintenance Call out,28/09/2018 18:13,28/09/2018 19:09,CONT00049,Service Centre - Maintenance Call out,Channel Interaction
+390,Store,Purchase,29/10/2018 13:07,29/10/2018 13:34,CONT00020,Store - Purchase,Channel Interaction
+391,Service Centre,Maintenance Call out,29/06/2019 5:59,29/06/2019 6:40,CONT00038,Service Centre - Maintenance Call out,Channel Interaction
+392,Portal,Create Account,15/07/2019 1:11,15/07/2019 1:54,CONT00078,Portal - Create Account,Channel Interaction
+393,Service Centre,Product Repair,1/01/2019 17:35,1/01/2019 17:41,CONT0009,Service Centre - Product Repair,Channel Interaction
+394,Portal,Product Enquiry,8/02/2019 3:07,8/02/2019 3:25,CONT00047,Portal - Product Enquiry,Channel Interaction
+395,Contact Centre,Warranty Claim,7/08/2018 20:24,7/08/2018 20:40,CONT00018,Contact Centre - Warranty Claim,Channel Interaction
+396,Service Centre,Maintenance Call out,29/01/2019 19:44,29/01/2019 20:02,CONT00015,Service Centre - Maintenance Call out,Channel Interaction
+397,Portal,Product Enquiry,4/11/2018 23:54,5/11/2018 0:50,CONT00039,Portal - Product Enquiry,Channel Interaction
+398,Store,Return,21/03/2019 22:52,21/03/2019 22:56,CONT00074,Store - Return,Channel Interaction
+399,Web,Product Disclosure Download,24/11/2018 19:12,24/11/2018 20:09,CONT0002,Web - Product Disclosure Download,Channel Interaction
+400,Web,Update Details,2/02/2019 4:10,2/02/2019 5:10,CONT00075,Web - Update Details,Channel Interaction
+401,Portal,Product Enquiry,13/05/2019 13:13,13/05/2019 13:21,CONT00036,Portal - Product Enquiry,Channel Interaction
+402,Store,Warranty,26/01/2019 1:31,26/01/2019 1:50,CONT00032,Store - Warranty,Channel Interaction
+403,Store,Warranty,21/12/2018 20:49,21/12/2018 20:55,CONT00042,Store - Warranty,Channel Interaction
+404,Store,Purchase,13/06/2019 11:42,13/06/2019 12:35,CONT00087,Store - Purchase,Channel Interaction
+405,Store,Purchase,1/07/2019 1:34,1/07/2019 2:23,CONT00024,Store - Purchase,Channel Interaction
+406,Contact Centre,Warranty Claim,6/07/2019 20:46,6/07/2019 20:48,CONT00063,Contact Centre - Warranty Claim,Channel Interaction
+407,Portal,Create Account,18/04/2019 10:51,18/04/2019 11:31,CONT00045,Portal - Create Account,Channel Interaction
+408,Contact Centre,Product Assistance,7/04/2019 8:34,7/04/2019 9:17,CONT00066,Contact Centre - Product Assistance,Channel Interaction
+409,Service Centre,Maintenance Call out,2/01/2019 6:18,2/01/2019 6:26,CONT00050,Service Centre - Maintenance Call out,Channel Interaction
+410,Service Centre,Product Return,12/03/2019 0:46,12/03/2019 1:45,CONT00072,Service Centre - Product Return,Channel Interaction
+411,Web,Product Enquiry,26/03/2019 1:15,26/03/2019 2:08,CONT00072,Web - Product Enquiry,Channel Interaction
+412,Portal,Create Account,11/07/2019 2:35,11/07/2019 2:56,CONT00040,Portal - Create Account,Channel Interaction
+413,Web,Product Disclosure Download,11/10/2018 15:48,11/10/2018 15:52,CONT00051,Web - Product Disclosure Download,Channel Interaction
+414,Store,Warranty,17/02/2019 1:01,17/02/2019 1:33,CONT00059,Store - Warranty,Channel Interaction
+415,Service Centre,Product Repair,23/09/2018 19:10,23/09/2018 19:28,CONT00076,Service Centre - Product Repair,Channel Interaction
+416,Contact Centre,Warranty Claim,6/01/2019 1:45,6/01/2019 1:50,CONT00056,Contact Centre - Warranty Claim,Channel Interaction
+417,Store,Return,29/08/2018 11:30,29/08/2018 11:50,CONT00038,Store - Return,Channel Interaction
+418,Portal,Update Details,9/05/2019 17:34,9/05/2019 17:56,CONT00064,Portal - Update Details,Channel Interaction
+419,Web,Product Disclosure Download,27/02/2019 11:13,27/02/2019 12:04,CONT00058,Web - Product Disclosure Download,Channel Interaction
+420,Service Centre,Maintenance Call out,23/07/2019 4:10,23/07/2019 4:19,CONT00068,Service Centre - Maintenance Call out,Channel Interaction
+421,Store,Warranty,22/12/2018 4:50,22/12/2018 4:54,CONT00016,Store - Warranty,Channel Interaction
+422,Service Centre,Maintenance Call out,7/09/2018 2:41,7/09/2018 3:09,CONT00017,Service Centre - Maintenance Call out,Channel Interaction
+423,Portal,Product Enquiry,30/04/2019 16:18,30/04/2019 16:47,CONT00085,Portal - Product Enquiry,Channel Interaction
+424,Portal,Create Account,1/02/2019 10:28,1/02/2019 11:15,CONT00081,Portal - Create Account,Channel Interaction
+425,Store,Warranty,3/07/2019 8:33,3/07/2019 8:53,CONT00085,Store - Warranty,Channel Interaction
+426,Service Centre,Maintenance Call out,30/03/2019 10:33,30/03/2019 11:09,CONT000100,Service Centre - Maintenance Call out,Channel Interaction
+427,Portal,Update Details,16/06/2019 20:36,16/06/2019 20:55,CONT00018,Portal - Update Details,Channel Interaction
+428,Service Centre,Product Return,20/02/2019 21:39,20/02/2019 21:44,CONT00012,Service Centre - Product Return,Channel Interaction
+429,Web,Product Enquiry,21/03/2019 15:55,21/03/2019 16:46,CONT00044,Web - Product Enquiry,Channel Interaction
+430,Contact Centre,Warranty Claim,10/09/2018 7:10,10/09/2018 7:31,CONT00089,Contact Centre - Warranty Claim,Channel Interaction
+431,Web,Update Details,18/03/2019 21:44,18/03/2019 22:06,CONT00064,Web - Update Details,Channel Interaction
+432,Service Centre,Product Repair,8/10/2018 10:23,8/10/2018 11:15,CONT00050,Service Centre - Product Repair,Channel Interaction
+433,Service Centre,Product Repair,7/02/2019 0:34,7/02/2019 1:16,CONT00018,Service Centre - Product Repair,Channel Interaction
+434,Contact Centre,Product Assistance,11/04/2019 11:27,11/04/2019 11:40,CONT00052,Contact Centre - Product Assistance,Channel Interaction
+435,Contact Centre,Warranty Claim,29/06/2019 16:57,29/06/2019 17:44,CONT00056,Contact Centre - Warranty Claim,Channel Interaction
+436,Store,Purchase,16/06/2019 4:38,16/06/2019 5:11,CONT00024,Store - Purchase,Channel Interaction
+437,Store,Warranty,11/07/2019 7:52,11/07/2019 8:09,CONT00020,Store - Warranty,Channel Interaction
+438,Web,Product Disclosure Download,11/04/2019 11:11,11/04/2019 11:37,CONT00088,Web - Product Disclosure Download,Channel Interaction
+439,Store,Warranty,21/09/2018 21:06,21/09/2018 21:46,CONT00033,Store - Warranty,Channel Interaction
+440,Service Centre,Product Repair,24/01/2019 13:54,24/01/2019 13:57,CONT00068,Service Centre - Product Repair,Channel Interaction
+441,Web,Product Disclosure Download,26/02/2019 4:26,26/02/2019 4:30,CONT00055,Web - Product Disclosure Download,Channel Interaction
+442,Contact Centre,Product Assistance,6/03/2019 3:53,6/03/2019 4:05,CONT00080,Contact Centre - Product Assistance,Channel Interaction
+443,Store,Warranty,22/08/2018 0:13,22/08/2018 1:11,CONT00074,Store - Warranty,Channel Interaction
+444,Contact Centre,Warranty Claim,12/07/2019 11:26,12/07/2019 11:27,CONT00082,Contact Centre - Warranty Claim,Channel Interaction
+445,Service Centre,Product Return,7/04/2019 11:05,7/04/2019 12:04,CONT00077,Service Centre - Product Return,Channel Interaction
+446,Portal,Create Account,1/04/2019 2:58,1/04/2019 3:28,CONT00073,Portal - Create Account,Channel Interaction
+447,Store,Warranty,30/05/2019 4:19,30/05/2019 5:02,CONT00060,Store - Warranty,Channel Interaction
+448,Contact Centre,Warranty Claim,8/12/2018 15:40,8/12/2018 16:21,CONT00093,Contact Centre - Warranty Claim,Channel Interaction
+449,Web,Product Enquiry,13/05/2019 12:24,13/05/2019 13:18,CONT00058,Web - Product Enquiry,Channel Interaction
+450,Service Centre,Product Return,26/03/2019 23:33,26/03/2019 23:42,CONT0007,Service Centre - Product Return,Channel Interaction
+451,Store,Purchase,6/09/2018 7:47,6/09/2018 8:03,CONT00060,Store - Purchase,Channel Interaction
+452,Web,Product Disclosure Download,18/01/2019 4:59,18/01/2019 5:55,CONT00071,Web - Product Disclosure Download,Channel Interaction
+453,Store,Purchase,16/01/2019 10:05,16/01/2019 10:43,CONT00030,Store - Purchase,Channel Interaction
+454,Contact Centre,Product Assistance,18/10/2018 10:25,18/10/2018 10:46,CONT00029,Contact Centre - Product Assistance,Channel Interaction
+455,Store,Warranty,16/06/2019 1:22,16/06/2019 2:02,CONT00017,Store - Warranty,Channel Interaction
+456,Web,Product Enquiry,5/08/2018 17:02,5/08/2018 17:40,CONT00016,Web - Product Enquiry,Channel Interaction
+457,Web,Update Details,31/03/2019 18:56,31/03/2019 19:36,CONT00052,Web - Update Details,Channel Interaction
+458,Portal,Create Account,22/06/2019 12:11,22/06/2019 12:42,CONT00050,Portal - Create Account,Channel Interaction
+459,Store,Purchase,17/05/2019 15:11,17/05/2019 15:23,CONT00082,Store - Purchase,Channel Interaction
+460,Contact Centre,Product Assistance,7/09/2018 2:57,7/09/2018 3:16,CONT00035,Contact Centre - Product Assistance,Channel Interaction
+461,Portal,Create Account,29/08/2018 14:29,29/08/2018 15:29,CONT00026,Portal - Create Account,Channel Interaction
+462,Portal,Create Account,21/07/2019 16:55,21/07/2019 16:56,CONT00081,Portal - Create Account,Channel Interaction
+463,Store,Purchase,7/04/2019 12:41,7/04/2019 12:43,CONT00060,Store - Purchase,Channel Interaction
+464,Store,Return,9/10/2018 3:11,9/10/2018 3:17,CONT00097,Store - Return,Channel Interaction
+465,Contact Centre,Warranty Claim,26/08/2018 10:49,26/08/2018 11:31,CONT0004,Contact Centre - Warranty Claim,Channel Interaction
+466,Store,Return,18/12/2018 1:01,18/12/2018 1:52,CONT00016,Store - Return,Channel Interaction
+467,Contact Centre,Product Assistance,16/02/2019 22:27,16/02/2019 23:09,CONT00030,Contact Centre - Product Assistance,Channel Interaction
+468,Portal,Create Account,12/08/2018 12:53,12/08/2018 12:57,CONT00079,Portal - Create Account,Channel Interaction
+469,Contact Centre,Warranty Claim,28/05/2019 9:22,28/05/2019 10:19,CONT00091,Contact Centre - Warranty Claim,Channel Interaction
+470,Portal,Update Details,28/02/2019 0:54,28/02/2019 1:25,CONT00065,Portal - Update Details,Channel Interaction
+471,Store,Warranty,1/08/2018 21:20,1/08/2018 22:15,CONT00059,Store - Warranty,Channel Interaction
+472,Store,Purchase,8/10/2018 23:41,9/10/2018 0:02,CONT00087,Store - Purchase,Channel Interaction
+473,Portal,Product Enquiry,2/11/2018 13:40,2/11/2018 14:21,CONT000100,Portal - Product Enquiry,Channel Interaction
+474,Web,Product Enquiry,20/09/2018 22:02,20/09/2018 22:46,CONT00041,Web - Product Enquiry,Channel Interaction
+475,Store,Return,9/04/2019 6:18,9/04/2019 6:45,CONT000100,Store - Return,Channel Interaction
+476,Web,Product Disclosure Download,8/11/2018 10:10,8/11/2018 11:03,CONT00045,Web - Product Disclosure Download,Channel Interaction
+477,Store,Purchase,28/08/2018 14:30,28/08/2018 15:16,CONT00080,Store - Purchase,Channel Interaction
+478,Contact Centre,Product Assistance,29/01/2019 11:17,29/01/2019 12:02,CONT00021,Contact Centre - Product Assistance,Channel Interaction
+479,Store,Purchase,3/03/2019 23:15,3/03/2019 23:20,CONT00068,Store - Purchase,Channel Interaction
+480,Contact Centre,Warranty Claim,10/03/2019 14:22,10/03/2019 15:15,CONT00017,Contact Centre - Warranty Claim,Channel Interaction
+481,Service Centre,Maintenance Call out,28/02/2019 20:37,28/02/2019 21:14,CONT00058,Service Centre - Maintenance Call out,Channel Interaction
+482,Service Centre,Product Return,25/09/2018 5:59,25/09/2018 6:03,CONT00074,Service Centre - Product Return,Channel Interaction
+483,Store,Warranty,12/01/2019 5:17,12/01/2019 5:44,CONT00026,Store - Warranty,Channel Interaction
+484,Portal,Product Enquiry,26/01/2019 9:17,26/01/2019 9:41,CONT00054,Portal - Product Enquiry,Channel Interaction
+485,Web,Product Enquiry,9/01/2019 8:55,9/01/2019 9:55,CONT00051,Web - Product Enquiry,Channel Interaction
+486,Contact Centre,Product Assistance,15/02/2019 15:36,15/02/2019 16:00,CONT00079,Contact Centre - Product Assistance,Channel Interaction
+487,Contact Centre,Product Assistance,11/05/2019 15:40,11/05/2019 16:40,CONT00086,Contact Centre - Product Assistance,Channel Interaction
+488,Web,Product Enquiry,4/12/2018 3:33,4/12/2018 3:46,CONT00066,Web - Product Enquiry,Channel Interaction
+489,Contact Centre,Warranty Claim,17/11/2018 16:26,17/11/2018 17:19,CONT00065,Contact Centre - Warranty Claim,Channel Interaction
+490,Contact Centre,Product Assistance,21/02/2019 19:10,21/02/2019 19:41,CONT00028,Contact Centre - Product Assistance,Channel Interaction
+491,Service Centre,Product Repair,25/07/2019 19:05,25/07/2019 19:43,CONT00044,Service Centre - Product Repair,Channel Interaction
+492,Store,Warranty,4/02/2019 4:25,4/02/2019 5:16,CONT00031,Store - Warranty,Channel Interaction
+493,Portal,Product Enquiry,9/05/2019 14:39,9/05/2019 14:43,CONT00023,Portal - Product Enquiry,Channel Interaction
+494,Portal,Update Details,6/02/2019 4:05,6/02/2019 4:13,CONT00023,Portal - Update Details,Channel Interaction
+495,Contact Centre,Warranty Claim,11/04/2019 0:16,11/04/2019 0:35,CONT00023,Contact Centre - Warranty Claim,Channel Interaction
+496,Contact Centre,Warranty Claim,2/05/2019 17:35,2/05/2019 17:56,CONT00048,Contact Centre - Warranty Claim,Channel Interaction
+497,Portal,Product Enquiry,2/03/2019 11:20,2/03/2019 12:11,CONT00099,Portal - Product Enquiry,Channel Interaction
+498,Portal,Update Details,5/09/2018 11:12,5/09/2018 11:59,CONT00040,Portal - Update Details,Channel Interaction
+499,Store,Return,1/06/2019 18:29,1/06/2019 19:21,CONT00094,Store - Return,Channel Interaction
+500,Store,Warranty,20/08/2018 14:44,20/08/2018 15:24,CONT00053,Store - Warranty,Channel Interaction

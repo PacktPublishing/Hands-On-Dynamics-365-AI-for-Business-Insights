@@ -1,0 +1,101 @@
+contact_id,first_name,last_name,social_user,email,street,city,state,country,dob,gender,churn_score
+CONT0001,Ethelyn,Halburton,ehalburton0@twitter,ehalburton0@foxnews.com,2 Hooker Street,Cincinnati,Ohio,United States,6/07/1990 14:48,Female,0.27
+CONT0002,Hattie,Daverin,hdaverin1@twitter,hdaverin1@cbslocal.com,3081 Helena Court,El Paso,Texas,United States,20/03/1990 2:23,Female,0.22
+CONT0003,Francoise,Luebbert,fluebbert2@facebook,fluebbert2@jiathis.com,526 Kensington Court,Gainesville,Florida,United States,12/06/1970 19:33,Female,0.22
+CONT0004,Brigid,Desport,bdesport3@instagram,bdesport3@seesaa.net,4 4th Parkway,Phoenix,Arizona,United States,16/05/1979 4:50,Female,0.22
+CONT0005,Robina,Dallas,rdallas4@facebook,rdallas4@msn.com,7 Namekagon Terrace,Baltimore,Maryland,United States,23/08/1973 0:20,Female,0.29
+CONT0006,Currey,Hugill,chugill5@instagram,chugill5@friendfeed.com,72373 Logan Court,Cincinnati,Ohio,United States,5/01/1983 0:11,Male,0.27
+CONT0007,Loella,Garard,lgarard6@instagram,lgarard6@huffingtonpost.com,505 Green Ridge Plaza,Tampa,Florida,United States,7/11/1979 9:14,Female,0.35
+CONT0008,Courtney,Quinnell,cquinnell7@facebook,cquinnell7@yandex.ru,1 Starling Park,North Hollywood,California,United States,23/09/1992 21:09,Female,0.24
+CONT0009,Ebba,Gerding,egerding8@twitter,egerding8@time.com,29167 Grim Circle,Gainesville,Florida,United States,12/05/1965 14:52,Female,0.28
+CONT00010,Garrot,Cahan,gcahan9@instagram,gcahan9@un.org,1194 Hovde Center,Dallas,Texas,United States,20/05/1980 17:09,Male,0.27
+CONT00011,Barnard,Djurisic,bdjurisica@instagram,bdjurisica@amazon.de,718 Corscot Plaza,Indianapolis,Indiana,United States,20/11/1963 0:42,Male,0.19
+CONT00012,Jarrad,Deem,jdeemb@instagram,jdeemb@geocities.com,0 Lawn Drive,Louisville,Kentucky,United States,14/12/1985 18:04,Male,0.27
+CONT00013,Constantin,Sutheran,csutheranc@twitter,csutheranc@apache.org,779 Eggendart Drive,Seattle,Washington,United States,27/06/1986 18:38,Male,0.33
+CONT00014,Fons,Lethbrig,flethbrigd@instagram,flethbrigd@squidoo.com,7 Birchwood Place,Fort Worth,Texas,United States,12/07/1980 11:52,Male,0.25
+CONT00015,Johann,Dimitru,jdimitrue@facebook,jdimitrue@msu.edu,8 Kipling Pass,Boca Raton,Florida,United States,4/09/1973 4:50,Male,0.37
+CONT00016,Ben,Eronie,beronief@twitter,beronief@latimes.com,3 Mallory Point,Wilkes Barre,Pennsylvania,United States,20/01/1981 10:00,Male,0.34
+CONT00017,Dimitri,Pybus,dpybusg@instagram,dpybusg@cdc.gov,5824 Magdeline Lane,Jacksonville,Florida,United States,2/12/1973 19:27,Male,0.08
+CONT00018,Malina,McRill,mmcrillh@twitter,mmcrillh@odnoklassniki.ru,06 Mifflin Avenue,Memphis,Tennessee,United States,28/06/1966 10:45,Female,0.31
+CONT00019,Abramo,Ollin,aollini@facebook,aollini@indiegogo.com,078 Summerview Hill,San Diego,California,United States,31/08/1974 5:18,Male,0.15
+CONT00020,Robby,Ticksall,rticksallj@twitter,rticksallj@bing.com,2 Sachtjen Center,Des Moines,Iowa,United States,23/10/1967 9:44,Female,0.27
+CONT00021,Sigismond,Rogeron,srogeronk@facebook,srogeronk@technorati.com,58304 Anniversary Drive,Virginia Beach,Virginia,United States,8/04/1991 23:34,Male,0.05
+CONT00022,Clari,McKeller,cmckellerl@instagram,cmckellerl@cargocollective.com,01846 Loftsgordon Street,Baltimore,Maryland,United States,20/09/2000 7:16,Female,0.4
+CONT00023,Ozzy,Barnfather,obarnfatherm@facebook,obarnfatherm@xinhuanet.com,4 Sloan Place,Richmond,Virginia,United States,8/07/1977 14:33,Male,0.32
+CONT00024,Leland,Southard,lsouthardn@instagram,lsouthardn@forbes.com,3290 Buena Vista Parkway,Carlsbad,California,United States,9/11/2000 10:14,Male,0.42
+CONT00025,Ferdinande,Colhoun,fcolhouno@facebook,fcolhouno@qq.com,7627 Mcbride Trail,Escondido,California,United States,17/12/1995 22:20,Female,0.25
+CONT00026,Cynthy,Dulieu,cdulieup@facebook,cdulieup@google.com.br,004 Farwell Circle,Houston,Texas,United States,3/10/1995 21:50,Female,0.32
+CONT00027,Sabra,Willes,swillesq@twitter,swillesq@fema.gov,99602 Eastlawn Terrace,Flint,Michigan,United States,4/07/1965 7:01,Female,0.29
+CONT00028,Jenilee,Stonebridge,jstonebridger@facebook,jstonebridger@nps.gov,73552 Rockefeller Circle,Nashville,Tennessee,United States,14/06/1962 17:18,Female,0.26
+CONT00029,Calida,Sherwin,csherwins@twitter,csherwins@storify.com,12947 Vera Center,Whittier,California,United States,4/05/1968 17:59,Female,0.18
+CONT00030,Giraud,Shirtcliffe,gshirtcliffet@instagram,gshirtcliffet@newsvine.com,3 Canary Court,Buffalo,New York,United States,30/01/1966 8:00,Male,0.25
+CONT00031,Abe,Cornewell,acornewellu@instagram,acornewellu@hud.gov,6028 Namekagon Avenue,Washington,District of Columbia,United States,30/09/1990 16:39,Male,0.26
+CONT00032,Bobinette,Moakson,bmoaksonv@twitter,bmoaksonv@examiner.com,828 Red Cloud Junction,Memphis,Tennessee,United States,13/04/2001 6:57,Female,0.24
+CONT00033,Olivette,O'Riordan,ooriordanw@facebook,ooriordanw@networkadvertising.org,549 Columbus Junction,Santa Fe,New Mexico,United States,14/03/1963 18:37,Female,0.24
+CONT00034,Rosemaria,Smitham,rsmithamx@instagram,rsmithamx@bandcamp.com,2979 Carpenter Place,Sacramento,California,United States,20/10/1965 10:56,Female,0.28
+CONT00035,Gaven,Jeschner,gjeschnery@instagram,gjeschnery@ask.com,73 Carey Junction,El Paso,Texas,United States,20/03/1984 2:58,Male,0.32
+CONT00036,Byrann,Applewhaite,bapplewhaitez@instagram,bapplewhaitez@examiner.com,70709 Anzinger Point,El Paso,Texas,United States,14/06/2001 23:52,Male,0.2
+CONT00037,Elisha,Yerson,eyerson10@twitter,eyerson10@spiegel.de,14333 Saint Paul Hill,Detroit,Michigan,United States,9/02/1983 14:12,Male,0.29
+CONT00038,Nessy,Shafe,nshafe11@twitter,nshafe11@hugedomains.com,16834 West Circle,Fort Lauderdale,Florida,United States,8/11/2000 15:40,Female,0.42
+CONT00039,Iorgos,Alldritt,ialldritt12@instagram,ialldritt12@sphinn.com,27 Cody Avenue,Jefferson City,Missouri,United States,23/11/2000 16:43,Male,0.01
+CONT00040,Willdon,Speke,wspeke13@facebook,wspeke13@google.ru,6 Texas Way,Harrisburg,Pennsylvania,United States,19/04/1968 17:25,Male,0.14
+CONT00041,Jane,Armour,jarmour14@facebook,jarmour14@sbwire.com,96 Pepper Wood Road,Colorado Springs,Colorado,United States,11/02/1978 18:37,Female,0.33
+CONT00042,Tallou,Raysdale,traysdale15@twitter,traysdale15@lycos.com,05 Lunder Junction,Sioux City,Iowa,United States,8/09/1975 13:16,Female,0.21
+CONT00043,Celisse,Winnard,cwinnard16@twitter,cwinnard16@purevolume.com,5 Manufacturers Crossing,Florence,South Carolina,United States,30/09/1978 9:29,Female,0.2
+CONT00044,Dew,Dedam,ddedam17@facebook,ddedam17@theglobeandmail.com,1 Butternut Avenue,Ventura,California,United States,25/04/1979 7:26,Male,0.27
+CONT00045,Spenser,Kem,skem18@twitter,skem18@imageshack.us,57205 Randy Drive,Spokane,Washington,United States,3/05/1972 18:35,Male,0.31
+CONT00046,Nikolaus,Picheford,npicheford19@facebook,npicheford19@sun.com,5898 Hansons Circle,Decatur,Georgia,United States,21/01/1995 14:16,Male,0.17
+CONT00047,Elli,Grey,egrey1a@facebook,egrey1a@utexas.edu,0195 Maryland Pass,Charleston,West Virginia,United States,5/10/1985 23:14,Female,0.32
+CONT00048,Dunn,Grastye,dgrastye1b@twitter,dgrastye1b@blogtalkradio.com,397 Schurz Center,Fort Collins,Colorado,United States,16/10/1993 10:10,Male,0.21
+CONT00049,Tamarah,Vasishchev,tvasishchev1c@twitter,tvasishchev1c@webeden.co.uk,5500 Cottonwood Alley,Houston,Texas,United States,1/07/1970 12:16,Female,0.2
+CONT00050,Clive,Chantrell,cchantrell1d@twitter,cchantrell1d@quantcast.com,6932 Anderson Point,Lansing,Michigan,United States,26/11/1998 12:54,Male,0.19
+CONT00051,Kimberley,Lehrahan,klehrahan1e@twitter,klehrahan1e@360.cn,648 Pearson Alley,Washington,District of Columbia,United States,9/07/1990 11:06,Female,0.31
+CONT00052,Karlee,Brocklehurst,kbrocklehurst1f@twitter,kbrocklehurst1f@nifty.com,6997 Dorton Park,Fort Worth,Texas,United States,9/12/1965 4:09,Female,0.23
+CONT00053,Delcina,Moreman,dmoreman1g@instagram,dmoreman1g@cisco.com,634 Center Road,Gary,Indiana,United States,4/04/1961 2:21,Female,0.25
+CONT00054,Fonzie,Pennycuick,fpennycuick1h@twitter,fpennycuick1h@cloudflare.com,373 Dexter Crossing,Little Rock,Arkansas,United States,4/07/1965 7:24,Male,0.26
+CONT00055,Selig,Duffitt,sduffitt1i@facebook,sduffitt1i@gravatar.com,35824 Portage Drive,Arlington,Texas,United States,10/11/1967 14:09,Male,0.3
+CONT00056,Justinn,Kennler,jkennler1j@twitter,jkennler1j@slashdot.org,09 Fieldstone Road,San Antonio,Texas,United States,13/12/1981 20:08,Female,0.3
+CONT00057,Ignazio,Philpot,iphilpot1k@facebook,iphilpot1k@hubpages.com,5 Holmberg Lane,Schenectady,New York,United States,6/12/1982 4:48,Male,0.34
+CONT00058,Edouard,Blewitt,eblewitt1l@instagram,eblewitt1l@hp.com,24912 American Ash Street,Tulsa,Oklahoma,United States,26/05/1993 14:01,Male,0.29
+CONT00059,Tilly,Yard,tyard1m@facebook,tyard1m@omniture.com,16528 Fordem Circle,Washington,District of Columbia,United States,23/11/1984 15:06,Female,0.21
+CONT00060,Hillie,Isacq,hisacq1n@twitter,hisacq1n@simplemachines.org,1108 Thompson Park,Boston,Massachusetts,United States,15/10/1978 20:33,Male,0.32
+CONT00061,Brynna,Hambling,bhambling1o@instagram,bhambling1o@parallels.com,73 Little Fleur Hill,Los Angeles,California,United States,27/01/1966 7:35,Female,0.24
+CONT00062,Lina,McCarlich,lmccarlich1p@instagram,lmccarlich1p@squarespace.com,5 Stoughton Park,Augusta,Georgia,United States,9/12/1962 13:43,Female,0.15
+CONT00063,Manya,O'Spillane,mospillane1q@twitter,mospillane1q@free.fr,540 Oxford Trail,Youngstown,Ohio,United States,8/12/1984 18:49,Female,0.37
+CONT00064,Cory,Mardell,cmardell1r@twitter,cmardell1r@fc2.com,38 Anzinger Place,Nashville,Tennessee,United States,26/12/1992 9:31,Male,0.35
+CONT00065,Whitney,Philippe,wphilippe1s@instagram,wphilippe1s@sun.com,33 Lerdahl Park,Denver,Colorado,United States,31/07/1964 1:36,Male,0.18
+CONT00066,Irvin,Metrick,imetrick1t@instagram,imetrick1t@parallels.com,67520 Mcbride Way,Corpus Christi,Texas,United States,8/09/1998 6:53,Male,0.28
+CONT00067,Alessandra,Goroni,agoroni1u@instagram,agoroni1u@elegantthemes.com,7 Browning Place,Houston,Texas,United States,17/12/1995 6:23,Female,0.19
+CONT00068,Zachary,Dagger,zdagger1v@twitter,zdagger1v@cbsnews.com,537 Elgar Street,Arlington,Virginia,United States,15/09/1987 12:20,Male,0.22
+CONT00069,Englebert,Maudlin,emaudlin1w@twitter,emaudlin1w@bloglines.com,0264 Jay Plaza,Denver,Colorado,United States,6/07/1961 21:07,Male,0.25
+CONT00070,Teddy,Copcott,tcopcott1x@instagram,tcopcott1x@kickstarter.com,24 Service Pass,Colorado Springs,Colorado,United States,11/05/1964 10:41,Male,0.39
+CONT00071,Jorie,Coulston,jcoulston1y@twitter,jcoulston1y@miitbeian.gov.cn,85887 Sunnyside Way,Los Angeles,California,United States,9/04/1962 3:22,Female,0.24
+CONT00072,Conny,De Giovanni,cdegiovanni1z@instagram,cdegiovanni1z@techcrunch.com,5 Hauk Crossing,Washington,District of Columbia,United States,25/05/1983 16:04,Female,0.2
+CONT00073,Constantine,Sesons,csesons20@facebook,csesons20@marriott.com,4258 Ridgeway Terrace,Pensacola,Florida,United States,16/05/1961 15:19,Male,0.22
+CONT00074,Jethro,Mellonby,jmellonby21@instagram,jmellonby21@amazon.com,134 Cascade Center,Trenton,New Jersey,United States,16/03/1973 0:29,Male,0.26
+CONT00075,Tally,Snookes,tsnookes22@instagram,tsnookes22@nyu.edu,29767 Ilene Junction,New Haven,Connecticut,United States,8/11/1977 18:11,Male,0.23
+CONT00076,Ninon,Haysey,nhaysey23@facebook,nhaysey23@cloudflare.com,58 Garrison Point,Philadelphia,Pennsylvania,United States,18/03/1993 18:32,Female,0.14
+CONT00077,William,Iffe,wiffe24@instagram,wiffe24@vkontakte.ru,1 Arrowood Alley,Roanoke,Virginia,United States,29/08/1990 1:31,Male,0.18
+CONT00078,Janeva,Klouz,jklouz25@instagram,jklouz25@tripod.com,749 Lotheville Circle,Pittsburgh,Pennsylvania,United States,20/03/1981 18:48,Female,0.27
+CONT00079,Luigi,Sharer,lsharer26@instagram,lsharer26@blogtalkradio.com,0 Twin Pines Drive,Charleston,West Virginia,United States,23/04/1984 8:52,Male,0.19
+CONT00080,Dion,Sammon,dsammon27@facebook,dsammon27@ucoz.com,66900 Hollow Ridge Circle,Columbus,Georgia,United States,28/06/1976 22:42,Female,0.36
+CONT00081,Maddie,Jakubski,mjakubski28@instagram,mjakubski28@etsy.com,1 Gateway Street,Lubbock,Texas,United States,8/10/1977 12:21,Female,0.24
+CONT00082,Becka,Reville,breville29@twitter,breville29@theglobeandmail.com,7 Rowland Plaza,Columbia,South Carolina,United States,23/05/1999 15:08,Female,0.34
+CONT00083,Lilli,Cranmor,lcranmor2a@instagram,lcranmor2a@paypal.com,59 Upham Point,Phoenix,Arizona,United States,5/02/1984 10:30,Female,0.27
+CONT00084,Sheryl,Bakster,sbakster2b@instagram,sbakster2b@hubpages.com,83115 Crownhardt Trail,Erie,Pennsylvania,United States,29/08/1974 7:08,Female,0.25
+CONT00085,Tripp,Barfoot,tbarfoot2c@twitter,tbarfoot2c@jiathis.com,36 Sommers Alley,Washington,District of Columbia,United States,22/11/1979 9:14,Male,0.34
+CONT00086,Dora,Menis,dmenis2d@twitter,dmenis2d@soundcloud.com,8588 Kennedy Court,San Jose,California,United States,19/02/1978 21:47,Female,0.21
+CONT00087,Oona,Girardeau,ogirardeau2e@instagram,ogirardeau2e@jigsy.com,4 Coolidge Place,Sacramento,California,United States,18/09/1987 20:39,Female,0.25
+CONT00088,Morlee,Unthank,munthank2f@facebook,munthank2f@seesaa.net,827 Buhler Hill,Santa Barbara,California,United States,13/05/1972 6:46,Male,0.21
+CONT00089,Consuela,Donoher,cdonoher2g@instagram,cdonoher2g@fotki.com,083 Fisk Junction,Monticello,Minnesota,United States,21/09/1976 16:32,Female,0.31
+CONT00090,Weston,Eliassen,weliassen2h@twitter,weliassen2h@typepad.com,56 Golf Circle,Dayton,Ohio,United States,15/04/1963 21:33,Male,0.19
+CONT00091,Aleda,Stidever,astidever2i@facebook,astidever2i@hatena.ne.jp,781 Lukken Hill,Rochester,New York,United States,30/05/1979 10:56,Female,0.22
+CONT00092,Anton,McRobert,amcrobert2j@facebook,amcrobert2j@ox.ac.uk,80 Crownhardt Point,Yonkers,New York,United States,19/04/1967 4:49,Male,0.34
+CONT00093,Ody,Rumbellow,orumbellow2k@instagram,orumbellow2k@instagram.com,54 Elgar Street,Houston,Texas,United States,9/06/1980 18:24,Male,0.26
+CONT00094,Jan,Twinberrow,jtwinberrow2l@twitter,jtwinberrow2l@sourceforge.net,3 Dakota Drive,Clearwater,Florida,United States,30/01/1962 5:28,Female,0.12
+CONT00095,Philis,Girodier,pgirodier2m@instagram,pgirodier2m@opera.com,53608 5th Pass,Atlanta,Georgia,United States,8/07/1965 1:30,Female,0.32
+CONT00096,Kristofor,McCaffery,kmccaffery2n@twitter,kmccaffery2n@symantec.com,851 Troy Point,Simi Valley,California,United States,12/10/1980 20:29,Male,0.23
+CONT00097,Rafferty,Wasmer,rwasmer2o@twitter,rwasmer2o@fema.gov,75 Ridgeway Circle,Riverside,California,United States,20/07/1972 5:39,Male,0.28
+CONT00098,Onida,Undy,oundy2p@twitter,oundy2p@marriott.com,95 Cambridge Road,Amarillo,Texas,United States,19/10/1982 8:13,Female,0.24
+CONT00099,Shandy,Gribble,sgribble2q@facebook,sgribble2q@issuu.com,03945 Harper Pass,Huntington,West Virginia,United States,7/05/1987 13:00,Female,0.19
+CONT000100,Cleo,Sollom,csollom2r@twitter,csollom2r@indiatimes.com,80647 Lawn Pass,Minneapolis,Minnesota,United States,27/08/1983 1:43,Female,0.32
