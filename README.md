@@ -1,33 +1,30 @@
-# Learning IPython for Interactive Computing and Data Visualization [Video]
-This is the code repository for [Learning IPython for Interactive Computing and Data Visualization [Video]](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-vid?utm_source=github&utm_medium=repository&utm_campaign=9781789805277), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Hands-On Dynamics 365 AI for Business Insights [Video]
+This is the code repository for [Hands-On Dynamics 365 AI for Business Insights [Video]](https://www.packtpub.com/data/hands-on-dynamics-365-ai-for-business-insights-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-This course is a beginner-friendly guide to the Python data analysis platform. After an introduction to the Python language, IPython, and Jupyter Notebook, you will learn how to analyze and visualize data on real-world examples, how to create graphical user interfaces for image processing in Notebook, and how to perform fast numerical computations for scientific simulations with NumPy, Numba, Cython, and ipyparallel. By the end of this course, you will be able to perform in-depth analyses of all sorts of data.
+In this course, you will reap the benefits of the new AI applications introduced by Microsoft in terms of sales, market, and customer service insights. You will begin with a quick installation and overview of Dynamics 365 and AI. You'll use AI for Customer Service Insights to achieve actionable insights into critical data and trends from your customer service system. By the end of the course, you will be able to use Dynamics 365 AI applications to achieve efficient and intelligent business insights.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Install Anaconda and code in Python in Jupyter Notebook 
-<LI>Load and explore datasets interactively&nbsp; 
-<LI>Perform complex data manipulations effectively with pandas 
-<LI>Create engaging data visualizations with matplotlib and seaborn 
-<LI>Simulate mathematical models with NumPy 
-<LI>Visualize and process images interactively in Jupyter Notebook with scikit-image 
-<LI>Accelerate your code with Numba, Cython, and IPython.parallel&nbsp; 
-<LI>Extend the Notebook interface with HTML, JavaScript, and D3 </LI></UL></DIV>
+<LI>Explore Dynamics 365 AI configuration capabilities for specific customer needs
+<LI>Leverage AI-driven insights to make better decisions and confidently and proactively improve customer satisfaction
+<LI>Configure and work with Dynamics 365 Sales Insights, including embedded AI experience for sales users
+<LI>Use AI-powered intelligence to turn data into insights and insights into action, and make better decisions
+<LI>Increase sales and improve decision-making with AI-powered insights fueled by customer data
+<LI>Configure and manage data inputs, and leverage the maximum value for business users	 </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Basics of Python
+Experience in Power BI
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Python 3.x
-Jupyter Notebook
+Dynamics 365 AI solutions will all be online solutions that students will need to enroll in via Trial environments. Some of these will need to be through a work or student email address.
 
 ## Related Products
-* [Beginning Data Science with Python and Jupyter [eLearning]](https://www.packtpub.com/big-data-and-business-intelligence/beginning-data-science-python-and-jupyter-elearning?utm_source=github&utm_medium=repository&utm_campaign=9781789532449)
+* [Configuring and Extending Dynamics 365 Customer Engagement [Video]](https://www.packtpub.com/game-development/configuring-and-extending-dynamics-365-customer-engagement-video)
 
-* [Building Web Applications with TypeScript, Angular and React [eLearning]](https://www.packtpub.com/web-development/building-web-applications-typescript-angular-and-react-elearning?utm_source=github&utm_medium=repository&utm_campaign=9781789340334)
+* [Deep Dive - Microsoft Dynamics 365 for Project Service Automation [Video]](https://www.packtpub.com/business/deep-dive-microsoft-dynamics-365-project-service-automation-video-0)
 
-* [Building Predictive Models with Machine Learning and Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/building-predictive-models-machine-learning-and-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781789132113)
+* [Getting Started with Dynamics 365 Customer Engagement [Video]](packtpub.com/game-development/getting-started-dynamics-365-customer-engagement-video)
 
