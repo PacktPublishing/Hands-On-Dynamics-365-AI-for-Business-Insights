@@ -28,3 +28,7 @@ Dynamics 365 AI solutions will all be online solutions that students will need t
 
 * [Getting Started with Dynamics 365 Customer Engagement [Video]](packtpub.com/game-development/getting-started-dynamics-365-customer-engagement-video)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838558185">https://packt.link/free-ebook/9781838558185 </a> </p>
